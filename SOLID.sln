@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceSegregationRefacto
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInversion", "DependencyInversion\DependencyInversion.csproj", "{70B95536-AF29-4A87-B642-17F5C8A8FA7A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInversionRefactor", "DependencyInversionRefactor\DependencyInversionRefactor.csproj", "{63543658-263D-4630-B371-6B2E8733A297}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{70B95536-AF29-4A87-B642-17F5C8A8FA7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{70B95536-AF29-4A87-B642-17F5C8A8FA7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{70B95536-AF29-4A87-B642-17F5C8A8FA7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63543658-263D-4630-B371-6B2E8733A297}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63543658-263D-4630-B371-6B2E8733A297}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63543658-263D-4630-B371-6B2E8733A297}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63543658-263D-4630-B371-6B2E8733A297}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
