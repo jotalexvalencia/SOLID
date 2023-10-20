@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace SingleResponsibility1
+namespace SingleResponsability
 {
     class CEmpleado
     {
