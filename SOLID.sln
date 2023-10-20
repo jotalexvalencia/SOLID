@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleResponsabilityRefacto
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenClosed", "OpenClosed\OpenClosed.csproj", "{564D2BCB-C23D-4769-B519-5F12DD06D27E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenClosedRefactor", "OpenClosedRefactor\OpenClosedRefactor.csproj", "{EBCFE609-A825-4089-9E13-38EC1C08A02C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{564D2BCB-C23D-4769-B519-5F12DD06D27E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{564D2BCB-C23D-4769-B519-5F12DD06D27E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{564D2BCB-C23D-4769-B519-5F12DD06D27E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBCFE609-A825-4089-9E13-38EC1C08A02C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBCFE609-A825-4089-9E13-38EC1C08A02C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBCFE609-A825-4089-9E13-38EC1C08A02C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBCFE609-A825-4089-9E13-38EC1C08A02C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
