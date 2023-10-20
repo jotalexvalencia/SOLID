@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Liskov", "Liskov\Liskov.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiskovRefactor", "LiskovRefactor\LiskovRefactor.csproj", "{BAFF4AC2-CCEC-4852-9E9A-770DFA5DCB76}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceSegregation", "InterfaceSegregation\InterfaceSegregation.csproj", "{AC80446A-DBB5-4A5A-8E62-3B220FC6DAE2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{BAFF4AC2-CCEC-4852-9E9A-770DFA5DCB76}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BAFF4AC2-CCEC-4852-9E9A-770DFA5DCB76}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BAFF4AC2-CCEC-4852-9E9A-770DFA5DCB76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC80446A-DBB5-4A5A-8E62-3B220FC6DAE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC80446A-DBB5-4A5A-8E62-3B220FC6DAE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC80446A-DBB5-4A5A-8E62-3B220FC6DAE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC80446A-DBB5-4A5A-8E62-3B220FC6DAE2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
